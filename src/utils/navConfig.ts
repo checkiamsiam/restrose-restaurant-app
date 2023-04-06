@@ -1,7 +1,7 @@
 export const navConfig = [
   {label: "Home" , link: "/"} , 
-  {label: "About" , link: "/about"} ,
-  {label: "Product" , link: "/product"} ,
-  {label: "Booking" , link: "/booking"} ,
-  {label: "Contact" , link: "/contact"} ,
+  {label: "About Us" , link: "/about"} ,
+  {label: "Products" , link: "/product"} ,
+  {label: "Bookings" , link: "/booking"} ,
+  {label: "Contact Us" , link: "/contact"} ,
 ]

@@ -20,6 +20,5 @@ const Home = () => {
   );
 };
 
-Home.getLayout = (page: ReactNode) => <LandingLayout>{page}</LandingLayout>;
 
 export default Home;
