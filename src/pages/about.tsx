@@ -9,7 +9,7 @@ const About = () => {
       <BreadcrumbBanner
         crumbs={[
           { label: "Home", link: "/" },
-          { label: "About", link: "/products" },
+          { label: "About", link: "/about" },
         ]}
         title="About Us"
         description="See our story and how we started our journey."
