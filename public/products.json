@@ -1,0 +1,171 @@
+[
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "image": "https://example.com/margherita-pizza.jpg",
+      "description": "Classic pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 9.99,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Spaghetti Bolognese",
+      "image": "https://example.com/spaghetti-bolognese.jpg",
+      "description": "Traditional Italian pasta dish with meat sauce and Parmesan cheese.",
+      "price": 12.99,
+      "rating": 4.2
+    },
+    {
+      "id": 3,
+      "name": "Grilled Chicken Salad",
+      "image": "https://example.com/grilled-chicken-salad.jpg",
+      "description": "Fresh greens topped with grilled chicken, tomatoes, cucumbers, and balsamic vinaigrette.",
+      "price": 8.99,
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Beef Burger",
+      "image": "https://example.com/beef-burger.jpg",
+      "description": "Juicy beef patty with lettuce, tomato, cheese, and special sauce, served with fries.",
+      "price": 10.99,
+      "rating": 4.3
+    },
+    {
+      "id": 5,
+      "name": "Fish Tacos",
+      "image": "https://example.com/fish-tacos.jpg",
+      "description": "Crispy fish fillets wrapped in soft tortillas with slaw and chipotle mayo.",
+      "price": 11.99,
+      "rating": 4.6
+    },
+    {
+      "id": 6,
+      "name": "Caesar Salad",
+      "image": "https://example.com/caesar-salad.jpg",
+      "description": "Romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+      "price": 7.99,
+      "rating": 4.1
+    },
+    {
+      "id": 7,
+      "name": "Chicken Alfredo Pasta",
+      "image": "https://example.com/chicken-alfredo-pasta.jpg",
+      "description": "Creamy Alfredo sauce with grilled chicken and fettuccine pasta.",
+      "price": 13.99,
+      "rating": 4.4
+    },
+    {
+      "id": 8,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 9,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 10,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 11,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 12,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id":13,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 14,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 15,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 16,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 17,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 18,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 19,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 20,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    },
+    {
+      "id": 21,
+      "name": "Veggie Burger",
+      "image": "https://example.com/veggie-burger.jpg",
+      "description": "Plant-based burger with lettuce, tomato, pickles, and vegan mayo, served with sweet potato fries.",
+      "price": 9.99,
+      "rating": 4.0
+    }
+  ]
+
