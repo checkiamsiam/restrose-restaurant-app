@@ -1,3 +1,4 @@
+import BookingSection from "@/components/BookingPage/BookingMain";
 import BreadcrumbBanner from "@/components/Common/BreadcrumbBanner";
 import SEO from "@/components/Common/SEO";
 
@@ -13,6 +14,7 @@ const BookingPage = () => {
         title="Reservations"
         description="Book a table and enjoy your meal."
       />
+      <BookingSection/>
     </>
   );
 };
