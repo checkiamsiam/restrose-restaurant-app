@@ -23,7 +23,8 @@ const ProductPage = ({ products }: ProductSectionProps) => {
 
 export async function getServerSideProps() {
   // Fetch product data from products.json file
-  const response : Response = await fetch(`${"http://localhost:3000"}/products.json`);
+  const baseUrl = process.env.NODE_ENV === "development" ? "http://localhost:3000" : "https://weero-digital-resturant-app.vercel.app";
+  const response: Response = await fetch(`${baseUrl}/products.json`);
   const products = await response.json();
 
   return {
